@@ -1,0 +1,370 @@
+import React from 'react'
+
+import './demo-startohne-graphics-mvp.css'
+
+const DemoStartohneGraphicsMVP = (props) => {
+  return (
+    <div className="demo-startohne-graphics-mvp-container">
+      <div className="demo-startohne-graphics-mvp-demo-startohne-graphics-mvp">
+        <div className="demo-startohne-graphics-mvp-heroimage-background">
+          <div className="demo-startohne-graphics-mvp-heroimage-background1">
+            <div className="demo-startohne-graphics-mvp-group4">
+              <div className="demo-startohne-graphics-mvp-group-zurck">
+                <div className="demo-startohne-graphics-mvp-zurck">
+                  <span className="demo-startohne-graphics-mvp-text">
+                    <span>Zurück</span>
+                  </span>
+                </div>
+              </div>
+              <div className="demo-startohne-graphics-mvp-group-weiter">
+                <div className="demo-startohne-graphics-mvp-zurck1">
+                  <span className="demo-startohne-graphics-mvp-text02">
+                    <span>Weiter</span>
+                  </span>
+                </div>
+              </div>
+              <div className="demo-startohne-graphics-mvp-dropdown">
+                <div className="demo-startohne-graphics-mvp-index">
+                  <div className="demo-startohne-graphics-mvp-group2">
+                    <span className="demo-startohne-graphics-mvp-text04">
+                      <span>Wähle einen Index</span>
+                    </span>
+                    <img
+                      src="/vector18541-2oib.svg"
+                      alt="Vector18541"
+                      className="demo-startohne-graphics-mvp-vector1"
+                    />
+                  </div>
+                  <span className="demo-startohne-graphics-mvp-text06">
+                    <span>Index</span>
+                  </span>
+                </div>
+                <div className="demo-startohne-graphics-mvp-region">
+                  <div className="demo-startohne-graphics-mvp-group3">
+                    <span className="demo-startohne-graphics-mvp-text08">
+                      <span>Wähle eine Region</span>
+                    </span>
+                    <img src="/vector18542-1lvg.svg" alt="Vector18542" />
+                  </div>
+                  <span className="demo-startohne-graphics-mvp-text10">
+                    <span>Region</span>
+                  </span>
+                </div>
+                <span className="demo-startohne-graphics-mvp-text12">
+                  <span>oder</span>
+                </span>
+                <span className="demo-startohne-graphics-mvp-text14">
+                  <span>Wo möchtest du investieren?</span>
+                </span>
+              </div>
+              <div className="demo-startohne-graphics-mvp-breadcrumb">
+                <div className="demo-startohne-graphics-mvp-land-index">
+                  <span className="demo-startohne-graphics-mvp-text16">
+                    <span>Index / Region</span>
+                  </span>
+                  <img
+                    src="/ellipse1948543-ttw5-200h.png"
+                    alt="Ellipse1948543"
+                    className="demo-startohne-graphics-mvp-ellipse194"
+                  />
+                </div>
+                <div className="demo-startohne-graphics-mvp-nachhaltigkeit">
+                  <span className="demo-startohne-graphics-mvp-text18">
+                    <span>Nachhaltigkeit</span>
+                  </span>
+                  <img
+                    src="/ellipse1948543-m4uk-200h.png"
+                    alt="Ellipse1948543"
+                    className="demo-startohne-graphics-mvp-ellipse1941"
+                  />
+                </div>
+                <div className="demo-startohne-graphics-mvp-sektor-industrie">
+                  <span className="demo-startohne-graphics-mvp-text20">
+                    <span>Sektor / Industrie</span>
+                  </span>
+                  <img
+                    src="/ellipse1948543-vrwf-200h.png"
+                    alt="Ellipse1948543"
+                    className="demo-startohne-graphics-mvp-ellipse1942"
+                  />
+                </div>
+                <div className="demo-startohne-graphics-mvp-personalisierung">
+                  <span className="demo-startohne-graphics-mvp-text22">
+                    <span>Personalisierung</span>
+                  </span>
+                  <img
+                    src="/ellipse1948543-1ytb-200h.png"
+                    alt="Ellipse1948543"
+                    className="demo-startohne-graphics-mvp-ellipse1943"
+                  />
+                </div>
+                <div className="demo-startohne-graphics-mvp-breadcrumbs">
+                  <span className="demo-startohne-graphics-mvp-text24">
+                    <span>Gewichtung</span>
+                  </span>
+                  <img
+                    src="/ellipse1948544-7lls-200h.png"
+                    alt="Ellipse1948544"
+                    className="demo-startohne-graphics-mvp-ellipse1944"
+                  />
+                </div>
+                <img
+                  src="/line38544-2qbpo.svg"
+                  alt="Line38544"
+                  className="demo-startohne-graphics-mvp-line3"
+                />
+                <img
+                  src="/line38544-c92.svg"
+                  alt="Line38544"
+                  className="demo-startohne-graphics-mvp-line31"
+                />
+                <img
+                  src="/line48544-lb5f.svg"
+                  alt="Line48544"
+                  className="demo-startohne-graphics-mvp-line4"
+                />
+                <img
+                  src="/line58544-9hol.svg"
+                  alt="Line58544"
+                  className="demo-startohne-graphics-mvp-line5"
+                />
+              </div>
+            </div>
+          </div>
+          <div className="demo-startohne-graphics-mvp-footer">
+            <div className="demo-startohne-graphics-mvp-row1">
+              <img
+                src="/divider8544-dab-200h.png"
+                alt="Divider8544"
+                className="demo-startohne-graphics-mvp-divider"
+              />
+              <div className="demo-startohne-graphics-mvp-cta">
+                <span className="demo-startohne-graphics-mvp-text26">
+                  <span>Ready to get started?</span>
+                </span>
+                <button className="demo-startohne-graphics-mvp-button">
+                  <span className="demo-startohne-graphics-mvp-text28">
+                    <span>Contact us</span>
+                  </span>
+                </button>
+              </div>
+            </div>
+            <div className="demo-startohne-graphics-mvp-copyright">
+              <span className="demo-startohne-graphics-mvp-text30">
+                <span>© 2023 DrctidX. All rights reserved.</span>
+              </span>
+              <div className="demo-startohne-graphics-mvp-txt">
+                <span className="demo-startohne-graphics-mvp-text32">
+                  <span>Terms &amp; Conditions</span>
+                </span>
+                <span className="demo-startohne-graphics-mvp-text34">
+                  <span>Privacy Policy</span>
+                </span>
+              </div>
+            </div>
+          </div>
+          <div className="demo-startohne-graphics-mvp-header-overlay">
+            <div className="demo-startohne-graphics-mvp-header">
+              <div className="demo-startohne-graphics-mvp-logo">
+                <div className="demo-startohne-graphics-mvp-logo1">
+                  <img
+                    src="/vector8546-unch.svg"
+                    alt="Vector8546"
+                    className="demo-startohne-graphics-mvp-vector"
+                  />
+                  <img
+                    src="/vector8546-d68f.svg"
+                    alt="Vector8546"
+                    className="demo-startohne-graphics-mvp-vector01"
+                  />
+                  <img
+                    src="/vector8546-5zvj.svg"
+                    alt="Vector8546"
+                    className="demo-startohne-graphics-mvp-vector02"
+                  />
+                  <img
+                    src="/vector8546-u0sc.svg"
+                    alt="Vector8546"
+                    className="demo-startohne-graphics-mvp-vector03"
+                  />
+                  <img
+                    src="/vector8546-5cas.svg"
+                    alt="Vector8546"
+                    className="demo-startohne-graphics-mvp-vector04"
+                  />
+                  <img
+                    src="/vector8546-ito.svg"
+                    alt="Vector8546"
+                    className="demo-startohne-graphics-mvp-vector05"
+                  />
+                  <img
+                    src="/vector8546-py1q9.svg"
+                    alt="Vector8546"
+                    className="demo-startohne-graphics-mvp-vector06"
+                  />
+                  <img
+                    src="/vector8547-ouz.svg"
+                    alt="Vector8547"
+                    className="demo-startohne-graphics-mvp-vector07"
+                  />
+                  <img
+                    src="/vector8547-6mt.svg"
+                    alt="Vector8547"
+                    className="demo-startohne-graphics-mvp-vector08"
+                  />
+                  <img
+                    src="/vector8547-gmtr.svg"
+                    alt="Vector8547"
+                    className="demo-startohne-graphics-mvp-vector09"
+                  />
+                  <img
+                    src="/vector8547-wbhb.svg"
+                    alt="Vector8547"
+                    className="demo-startohne-graphics-mvp-vector10"
+                  />
+                  <img
+                    src="/vector8547-4i2nb.svg"
+                    alt="Vector8547"
+                    className="demo-startohne-graphics-mvp-vector11 demo-startohne-graphics-mvp-vector11"
+                  />
+                  <img
+                    src="/vector8547-zm7j.svg"
+                    alt="Vector8547"
+                    className="demo-startohne-graphics-mvp-vector12"
+                  />
+                  <img
+                    src="/vector8547-g5h.svg"
+                    alt="Vector8547"
+                    className="demo-startohne-graphics-mvp-vector13"
+                  />
+                  <img
+                    src="/vector8547-efga.svg"
+                    alt="Vector8547"
+                    className="demo-startohne-graphics-mvp-vector14"
+                  />
+                  <img
+                    src="/vector8547-063n.svg"
+                    alt="Vector8547"
+                    className="demo-startohne-graphics-mvp-vector15"
+                  />
+                  <img
+                    src="/vector8547-ltvk.svg"
+                    alt="Vector8547"
+                    className="demo-startohne-graphics-mvp-vector16"
+                  />
+                  <img
+                    src="/vector8548-n6ar.svg"
+                    alt="Vector8548"
+                    className="demo-startohne-graphics-mvp-vector17"
+                  />
+                  <img
+                    src="/vector8548-ljnq.svg"
+                    alt="Vector8548"
+                    className="demo-startohne-graphics-mvp-vector18"
+                  />
+                  <img
+                    src="/vector8548-e4nd.svg"
+                    alt="Vector8548"
+                    className="demo-startohne-graphics-mvp-vector19"
+                  />
+                  <img
+                    src="/vector8548-256x.svg"
+                    alt="Vector8548"
+                    className="demo-startohne-graphics-mvp-vector20"
+                  />
+                  <img
+                    src="/vector8548-e5fl.svg"
+                    alt="Vector8548"
+                    className="demo-startohne-graphics-mvp-vector21"
+                  />
+                  <img
+                    src="/vector8548-joa.svg"
+                    alt="Vector8548"
+                    className="demo-startohne-graphics-mvp-vector22"
+                  />
+                  <img
+                    src="/vector8548-4dap.svg"
+                    alt="Vector8548"
+                    className="demo-startohne-graphics-mvp-vector23"
+                  />
+                  <img
+                    src="/vector8548-0m0p.svg"
+                    alt="Vector8548"
+                    className="demo-startohne-graphics-mvp-vector24"
+                  />
+                  <img
+                    src="/vector8548-7ru5.svg"
+                    alt="Vector8548"
+                    className="demo-startohne-graphics-mvp-vector25"
+                  />
+                  <img
+                    src="/vector8548-csba.svg"
+                    alt="Vector8548"
+                    className="demo-startohne-graphics-mvp-vector26"
+                  />
+                  <img
+                    src="/vector8549-caua.svg"
+                    alt="Vector8549"
+                    className="demo-startohne-graphics-mvp-vector27"
+                  />
+                  <img
+                    src="/vector8549-ayth.svg"
+                    alt="Vector8549"
+                    className="demo-startohne-graphics-mvp-vector28"
+                  />
+                  <img
+                    src="/vector8549-chmq.svg"
+                    alt="Vector8549"
+                    className="demo-startohne-graphics-mvp-vector29"
+                  />
+                  <img
+                    src="/vector8549-xf9.svg"
+                    alt="Vector8549"
+                    className="demo-startohne-graphics-mvp-vector30"
+                  />
+                </div>
+                <div className="demo-startohne-graphics-mvp-group1">
+                  <span className="demo-startohne-graphics-mvp-text36">
+                    <span>DrctidX</span>
+                  </span>
+                </div>
+              </div>
+              <div className="demo-startohne-graphics-mvp-headersection">
+                <div className="demo-startohne-graphics-mvp-aboutsection">
+                  <div className="demo-startohne-graphics-mvp-txt1">
+                    <span className="demo-startohne-graphics-mvp-text38">
+                      <span>About</span>
+                    </span>
+                    <span className="demo-startohne-graphics-mvp-text40">
+                      <span>Features</span>
+                    </span>
+                    <span className="demo-startohne-graphics-mvp-text42">
+                      <span>Blogs</span>
+                    </span>
+                    <span className="demo-startohne-graphics-mvp-text44">
+                      <span>Contact</span>
+                    </span>
+                  </div>
+                  <div className="demo-startohne-graphics-mvp-cta1">
+                    <div className="demo-startohne-graphics-mvp-login">
+                      <span className="demo-startohne-graphics-mvp-text46">
+                        <span>Login</span>
+                      </span>
+                    </div>
+                    <div className="demo-startohne-graphics-mvp-signup">
+                      <span className="demo-startohne-graphics-mvp-text48">
+                        <span>Sign up</span>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  )
+}
+
+export default DemoStartohneGraphicsMVP
