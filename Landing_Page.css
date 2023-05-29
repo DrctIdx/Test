@@ -1,0 +1,312 @@
+import React from 'react'
+
+import './landingpageohne-graphics-mvp.css'
+
+const LandingpageohneGraphicsMVP = (props) => {
+  return (
+    <div className="landingpageohne-graphics-mvp-container">
+      <div className="landingpageohne-graphics-mvp-landingpageohne-graphics-mvp">
+        <div className="landingpageohne-graphics-mvp-heroimage-background">
+          <div className="landingpageohne-graphics-mvp-footer"></div>
+          <div className="landingpageohne-graphics-mvp-header-overlay"></div>
+        </div>
+        <div className="landingpageohne-graphics-mvp-heroimage">
+          <div className="landingpageohne-graphics-mvp-hero-image1">
+            <div className="landingpageohne-graphics-mvp-txt">
+              <div className="landingpageohne-graphics-mvp-herotxt">
+                <span className="landingpageohne-graphics-mvp-text">
+                  <span>
+                    Create your own, customized Portfolio within minutes
+                  </span>
+                </span>
+                <span className="landingpageohne-graphics-mvp-text02">
+                  <span>
+                    Take customization to the next level and use our adjustable
+                    index mechanisms. Mitigate risks on your own and invest in a
+                    save future. Benefit from secure transactions, low fees and
+                    our customization options.
+                  </span>
+                </span>
+              </div>
+              <div className="landingpageohne-graphics-mvp-cta">
+                <div className="landingpageohne-graphics-mvp-sendmoney">
+                  <span className="landingpageohne-graphics-mvp-text04">
+                    <span>Start Demo</span>
+                  </span>
+                </div>
+                <div className="landingpageohne-graphics-mvp-openanaccount">
+                  <span className="landingpageohne-graphics-mvp-text06">
+                    <span>Open an account</span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="landingpageohne-graphics-mvp-heroimage2">
+              <img
+                src="/rectangle8588-d498-400w.png"
+                alt="Rectangle8588"
+                className="landingpageohne-graphics-mvp-rectangle"
+              />
+              <img
+                src="/ellipse1908588-pks5-200h.png"
+                alt="Ellipse1908588"
+                className="landingpageohne-graphics-mvp-ellipse190"
+              />
+              <img
+                src="/ellipse1928588-7aye-200h.png"
+                alt="Ellipse1928588"
+                className="landingpageohne-graphics-mvp-ellipse192"
+              />
+              <img
+                src="/ellipse1938589-wajc-200h.png"
+                alt="Ellipse1938589"
+                className="landingpageohne-graphics-mvp-ellipse193"
+              />
+              <img
+                src="/frame1439818589-6u2c-300w.png"
+                alt="Frame1439818589"
+                className="landingpageohne-graphics-mvp-frame143981"
+              />
+            </div>
+          </div>
+        </div>
+        <div className="landingpageohne-graphics-mvp-footer1">
+          <div className="landingpageohne-graphics-mvp-container1">
+            <div className="landingpageohne-graphics-mvp-row1">
+              <img
+                src="/divider9520-xa5k-200h.png"
+                alt="Divider9520"
+                className="landingpageohne-graphics-mvp-divider"
+              />
+              <div className="landingpageohne-graphics-mvp-cta1">
+                <span className="landingpageohne-graphics-mvp-text08">
+                  <span>Ready to get started?</span>
+                </span>
+                <button className="landingpageohne-graphics-mvp-button">
+                  <span className="landingpageohne-graphics-mvp-text10">
+                    <span>Contact us</span>
+                  </span>
+                </button>
+              </div>
+            </div>
+            <div className="landingpageohne-graphics-mvp-copyright">
+              <span className="landingpageohne-graphics-mvp-text12">
+                <span>© 2023 DrctidX. All rights reserved.</span>
+              </span>
+              <div className="landingpageohne-graphics-mvp-txt1">
+                <span className="landingpageohne-graphics-mvp-text14">
+                  <span>Terms &amp; Conditions</span>
+                </span>
+                <span className="landingpageohne-graphics-mvp-text16">
+                  <span>Privacy Policy</span>
+                </span>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div className="landingpageohne-graphics-mvp-header">
+          <div className="landingpageohne-graphics-mvp-container2">
+            <div className="landingpageohne-graphics-mvp-header1">
+              <div className="landingpageohne-graphics-mvp-logo">
+                <div className="landingpageohne-graphics-mvp-logo1">
+                  <img
+                    src="/vector8590-ao4.svg"
+                    alt="Vector8590"
+                    className="landingpageohne-graphics-mvp-vector"
+                  />
+                  <img
+                    src="/vector8590-pitp.svg"
+                    alt="Vector8590"
+                    className="landingpageohne-graphics-mvp-vector01"
+                  />
+                  <img
+                    src="/vector8591-kov.svg"
+                    alt="Vector8591"
+                    className="landingpageohne-graphics-mvp-vector02"
+                  />
+                  <img
+                    src="/vector8591-qrsn.svg"
+                    alt="Vector8591"
+                    className="landingpageohne-graphics-mvp-vector03"
+                  />
+                  <img
+                    src="/vector8591-n55i.svg"
+                    alt="Vector8591"
+                    className="landingpageohne-graphics-mvp-vector04"
+                  />
+                  <img
+                    src="/vector8591-wzre.svg"
+                    alt="Vector8591"
+                    className="landingpageohne-graphics-mvp-vector05"
+                  />
+                  <img
+                    src="/vector8591-34v8.svg"
+                    alt="Vector8591"
+                    className="landingpageohne-graphics-mvp-vector06"
+                  />
+                  <img
+                    src="/vector8591-roaj.svg"
+                    alt="Vector8591"
+                    className="landingpageohne-graphics-mvp-vector07"
+                  />
+                  <img
+                    src="/vector8591-s2q.svg"
+                    alt="Vector8591"
+                    className="landingpageohne-graphics-mvp-vector08"
+                  />
+                  <img
+                    src="/vector8591-zx5f.svg"
+                    alt="Vector8591"
+                    className="landingpageohne-graphics-mvp-vector09"
+                  />
+                  <img
+                    src="/vector8591-bxzh.svg"
+                    alt="Vector8591"
+                    className="landingpageohne-graphics-mvp-vector10"
+                  />
+                  <img
+                    src="/vector8591-xx5o1.svg"
+                    alt="Vector8591"
+                    className="landingpageohne-graphics-mvp-vector11"
+                  />
+                  <img
+                    src="/vector8592-b9wa.svg"
+                    alt="Vector8592"
+                    className="landingpageohne-graphics-mvp-vector12"
+                  />
+                  <img
+                    src="/vector8592-udes.svg"
+                    alt="Vector8592"
+                    className="landingpageohne-graphics-mvp-vector13"
+                  />
+                  <img
+                    src="/vector8592-5m1a.svg"
+                    alt="Vector8592"
+                    className="landingpageohne-graphics-mvp-vector14"
+                  />
+                  <img
+                    src="/vector8592-3sy.svg"
+                    alt="Vector8592"
+                    className="landingpageohne-graphics-mvp-vector15"
+                  />
+                  <img
+                    src="/vector8592-9smh.svg"
+                    alt="Vector8592"
+                    className="landingpageohne-graphics-mvp-vector16"
+                  />
+                  <img
+                    src="/vector8592-agh7.svg"
+                    alt="Vector8592"
+                    className="landingpageohne-graphics-mvp-vector17"
+                  />
+                  <img
+                    src="/vector8592-17t9.svg"
+                    alt="Vector8592"
+                    className="landingpageohne-graphics-mvp-vector18"
+                  />
+                  <img
+                    src="/vector8592-c31b.svg"
+                    alt="Vector8592"
+                    className="landingpageohne-graphics-mvp-vector19"
+                  />
+                  <img
+                    src="/vector8592-z1.svg"
+                    alt="Vector8592"
+                    className="landingpageohne-graphics-mvp-vector20"
+                  />
+                  <img
+                    src="/vector8592-s3ze.svg"
+                    alt="Vector8592"
+                    className="landingpageohne-graphics-mvp-vector21"
+                  />
+                  <img
+                    src="/vector8593-dmb.svg"
+                    alt="Vector8593"
+                    className="landingpageohne-graphics-mvp-vector22"
+                  />
+                  <img
+                    src="/vector8593-qp7.svg"
+                    alt="Vector8593"
+                    className="landingpageohne-graphics-mvp-vector23"
+                  />
+                  <img
+                    src="/vector8593-a8l.svg"
+                    alt="Vector8593"
+                    className="landingpageohne-graphics-mvp-vector24"
+                  />
+                  <img
+                    src="/vector8593-op2p.svg"
+                    alt="Vector8593"
+                    className="landingpageohne-graphics-mvp-vector25"
+                  />
+                  <img
+                    src="/vector8593-2xjh.svg"
+                    alt="Vector8593"
+                    className="landingpageohne-graphics-mvp-vector26"
+                  />
+                  <img
+                    src="/vector8593-hcnn.svg"
+                    alt="Vector8593"
+                    className="landingpageohne-graphics-mvp-vector27"
+                  />
+                  <img
+                    src="/vector8593-7lm7.svg"
+                    alt="Vector8593"
+                    className="landingpageohne-graphics-mvp-vector28"
+                  />
+                  <img
+                    src="/vector8593-er8.svg"
+                    alt="Vector8593"
+                    className="landingpageohne-graphics-mvp-vector29"
+                  />
+                  <img
+                    src="/vector8593-iyg.svg"
+                    alt="Vector8593"
+                    className="landingpageohne-graphics-mvp-vector30"
+                  />
+                </div>
+                <div className="landingpageohne-graphics-mvp-group1">
+                  <span className="landingpageohne-graphics-mvp-text18">
+                    <span>DrctidX</span>
+                  </span>
+                </div>
+              </div>
+              <div className="landingpageohne-graphics-mvp-headersection">
+                <div className="landingpageohne-graphics-mvp-aboutsection">
+                  <div className="landingpageohne-graphics-mvp-txt2">
+                    <span className="landingpageohne-graphics-mvp-text20">
+                      <span>About</span>
+                    </span>
+                    <span className="landingpageohne-graphics-mvp-text22">
+                      <span>Features</span>
+                    </span>
+                    <span className="landingpageohne-graphics-mvp-text24">
+                      <span>Blogs</span>
+                    </span>
+                    <span className="landingpageohne-graphics-mvp-text26">
+                      <span>Contact</span>
+                    </span>
+                  </div>
+                  <div className="landingpageohne-graphics-mvp-cta2">
+                    <div className="landingpageohne-graphics-mvp-login">
+                      <span className="landingpageohne-graphics-mvp-text28">
+                        <span>Login</span>
+                      </span>
+                    </div>
+                    <div className="landingpageohne-graphics-mvp-signup">
+                      <span className="landingpageohne-graphics-mvp-text30">
+                        <span>Sign up</span>
+                      </span>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  )
+}
+
+export default LandingpageohneGraphicsMVP
